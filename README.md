@@ -1,7 +1,8 @@
 ﻿# logwaf
 
 Author：178718287@qq.com
-基于nginx lua做前端防御，基于hadoop做用户行为分析的waf。
+
+logwaf基于nginx lua做前端防御，基于用户访问行为用hadoop做用户行为分析的waf。
 
 nginx中嵌入lua功能脚本，进行数据采集和拒绝异常可疑访问。
 
